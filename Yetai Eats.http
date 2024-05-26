@@ -1,0 +1,6 @@
+@Yetai_Eats_HostAddress = http://localhost:5283
+
+GET {{Yetai_Eats_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
